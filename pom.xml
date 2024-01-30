@@ -41,6 +41,22 @@
             <artifactId>opentelemetry-exporter-otlp</artifactId>
             <version>1.23.1</version>
         </dependency>
+		<dependency>
+       <groupId>io.opentelemetry</groupId>
+           <artifactId>opentelemetry-api</artifactId>
+           <version>1.5.0</version>
+       </dependency>
+       <dependency>
+           <groupId>io.opentelemetry</groupId>
+           <artifactId>opentelemetry-sdk</artifactId>
+       <version>1.5.0</version>
+       </dependency>
+       <dependency>
+           <groupId>io.opentelemetry</groupId>
+           <artifactId>opentelemetry-exporters-otlp</artifactId>
+           <version>1.5.0</version>
+    </dependency>
+
 	</dependencies>
 <dependencyManagement>
     <dependencies>
