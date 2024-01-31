@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.aria.demo.ariagrafanaprometheus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class AriaGrafanaPrometheusApplicationTests {
 
 	@Test
 	void contextLoads() {
