@@ -1,6 +1,6 @@
 HELP.md
 #Ignore everything in target 
-/target/*
+target/*
 # ! ignore jar
 !/target/aria-grafana-prometheus-0.0.1-SNAPSHOT.jar.jar
 !.mvn/wrapper/maven-wrapper.jar
